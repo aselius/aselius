@@ -1,4 +1,12 @@
-### Hi there 👋
+## Jaewoo Park
+
+<img src="https://komarev.com/ghpvc/?username=aselius&label=drop%20bys&color=a078ad&style=plastic" alt="aselius" />
+
+### Currently..
+
+- 🔭 I’m currently working on ... Python projects, ML Ops
+- 🌱 I’m currently learning ML Ops, Deep learning
+- 👯 같이 취미로 개발하실 분들을 찾고있어요!
 
 <!--
 **aselius/aselius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
