@@ -5,9 +5,9 @@
 ### Currently..
 
 - 🔭 I’m currently working on ... Python projects, ML Ops
-- 🌱 I’m currently learning ML Ops, Deep learning
-- 👨🏻‍🎓 Currently attending Georgia Tech MSCS
-- 👯 같이 취미로 개발하실 분들을 찾고있어요!
+- 🌱 I’m currently learning ML Ops, Deep learning, Scala
+- 👨🏻‍🎓 Recent Georgia Tech MSCS Graduate
+- 👯 I'm looking to collaborate on any fun topics regarding VAEs or transformers, or any Health related ideas!
 
 <!--
 **aselius/aselius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
